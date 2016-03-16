@@ -27,7 +27,17 @@ $( document ).ready(() => {
 		planeNum = 4,
 		easing = 'easeInOutQuart',
 		d = 800,
-		imgs = ['homepic', 'glassespic', 'msgpic', 'takepic', 'musicpic', 'bookpic', 'configpic', 'picpic', 'ipodpic'],
+		imgs = [
+		    'takepic_jr1bxc.png',
+		    'picpic_dog9ft',
+		    'musicpic_wjvnob',
+		    'msgpic_hjsaob',
+		    'ipodpic_skcnt0',
+		    'homepic_xb2zwa',
+		    'glassespic_bwjrxy',
+		    'configpic_knqrcm',
+		    'bookpic_fdnadh'
+		],
 		colors = [ '#FFF', '#8EF0F7', '#FF87C6', '#FFF387' ],
 		extansion = 'png',
 		mainWidth,
@@ -299,7 +309,7 @@ $( document ).ready(() => {
 				for ( let i = 0; i < rowNum; i++ ) {
 					for ( let j = 0; j < columnNum; j++ ) {
 						let elem = $("<div id = 'newMenu'></div>"),
-							image = $("<img class = 'image' src = '" + imgs[ j + i * columnNum ] + ".png'>");
+							image = $("<img class = 'image' src = 'http://res.cloudinary.com/dd0hzltor/image/upload/v1458152687/" + imgs[ j + i * columnNum ] + ".png'>");
 
 						elem.css({
 							left: ( menuSize + margin ) * j,
