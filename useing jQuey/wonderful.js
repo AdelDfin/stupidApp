@@ -28,7 +28,7 @@ $( document ).ready(() => {
 		easing = 'easeInOutQuart',
 		d = 800,
 		imgs = [
-		    'takepic_jr1bxc.png',
+		    'takepic_jr1bxc',
 		    'picpic_dog9ft',
 		    'musicpic_wjvnob',
 		    'msgpic_hjsaob',
