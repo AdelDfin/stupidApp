@@ -210,16 +210,16 @@ window.onload = () => {
 		planeNum = 4;
 
 	let images = [
-		'homepic',
-		'glassespic',
-		'msgpic',
-		'takepic',
-		'musicpic',
-		'bookpic',
-		'configpic',
-		'picpic',
-		'ipodpic'
-	];
+	    'takepic_jr1bxc',
+	    'picpic_dog9ft',
+	    'musicpic_wjvnob',
+	    'msgpic_hjsaob',
+	    'ipodpic_skcnt0',
+	    'homepic_xb2zwa',
+	    'glassespic_bwjrxy',
+	    'configpic_knqrcm',
+	    'bookpic_fdnadh'
+	]
 	
 	let colors = [ '#FFF', '#8EF0F7', '#FF87C6', '#FFF387' ];
 
@@ -561,7 +561,7 @@ window.onload = () => {
 
 						elem.setAttribute('id', 'newMenu');
 						image.setAttribute('class', 'image');
-						image.setAttribute('src', images[ x + y * columnNum ] + '.png');
+						image.setAttribute('src', 'http://res.cloudinary.com/dd0hzltor/image/upload/v1458152687/' + images[ x + y * columnNum ] + '.png');
 
 						myOwnStupidHelperAPI.style(
 							elem,
