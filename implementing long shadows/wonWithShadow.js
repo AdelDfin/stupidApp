@@ -21,6 +21,8 @@
 	You can find me on twitter: @trueJSLover
 */
 
+"use strict";
+
 $( document ).ready(() => {
 	'use strict';
 
