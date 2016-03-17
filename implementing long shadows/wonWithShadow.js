@@ -375,7 +375,7 @@ $( document ).ready(() => {
 						let wrapper = $("<div id = 'wrapper' ></div>"),
 							newMenu = $("<div id = 'newMenu' ></div>"),
 							shadow = $("<div id = 'shadow' ></div>"),
-							image = $("<img class = 'image' src = '" + imgs[ j + i * columnNum ] + ".png'>"),
+							image = $("<img class = 'image' src = 'http://res.cloudinary.com/dd0hzltor/image/upload/v1458152687/" + imgs[ j + i * columnNum ] + ".png'>"),
 							x = $("<div id = 'X' ></div>"),
 							y = $("<div id = 'Y' ></div>");
 
