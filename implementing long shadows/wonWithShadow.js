@@ -31,7 +31,17 @@ $( document ).ready(() => {
 		planeNum = 4,
 		easing = 'easeInOutQuart',
 		d = 800,
-		imgs = ['homepic', 'glassespic', 'msgpic', 'takepic', 'musicpic', 'bookpic', 'configpic', 'picpic', 'ipodpic'],
+		imgs = [
+		    'takepic_jr1bxc',
+		    'picpic_dog9ft',
+		    'musicpic_wjvnob',
+		    'msgpic_hjsaob',
+		    'ipodpic_skcnt0',
+		    'homepic_xb2zwa',
+		    'glassespic_bwjrxy',
+		    'configpic_knqrcm',
+		    'bookpic_fdnadh'
+		],
 		colors = [ '#FFF', '#8EF0F7', '#FF87C6', '#FFF387' ],
 		mainWidth,
 		mainHeight,
