@@ -14,6 +14,8 @@
 	You can find me on twitter: @trueJSLover
 */
 
+"use strict";
+
 const myOwnStupidHelperAPI = (function ( ww, dc, undefined ) {
 	let interval = null;
 	let currentTime = 0;
