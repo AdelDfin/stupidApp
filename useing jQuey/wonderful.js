@@ -19,6 +19,8 @@
 	You can find me on twitter: @trueJSLover
 */
 
+"use strict";
+
 $( document ).ready(() => {
 	let menuSize = 50,
 		margin = 10,
