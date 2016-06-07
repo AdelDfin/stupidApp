@@ -15,7 +15,7 @@
 
 	#link.
 
-	Copyright(c) Adel Dfin.
+	Copyright(c) Adel.
 	You can find me on twitter: @trueJSLover
 */
 
