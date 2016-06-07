@@ -10,7 +10,7 @@
 
 	And for those images I'am using are Designed by "Freepik.com".
 
-	Copyright(c) Adel Dfin
+	Copyright(c) Adel
 	You can find me on twitter: @trueJSLover
 */
 
