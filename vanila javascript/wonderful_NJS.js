@@ -11,7 +11,7 @@
 	And for those images I'am using are Designed by "Freepik.com".
 
 	Copyright(c) Adel
-	You can find me on twitter: @trueJSLover
+	You can find me on twitter: @bigfanjs
 */
 
 "use strict";
