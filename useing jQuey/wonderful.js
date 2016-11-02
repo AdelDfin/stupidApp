@@ -16,7 +16,7 @@
 	#link.
 
 	Copyright(c) Adel.
-	You can find me on twitter: @trueJSLover
+	You can find me on twitter: @bigfanjs
 */
 
 "use strict";
